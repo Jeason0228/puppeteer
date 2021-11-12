@@ -18,6 +18,7 @@
   "homepage": "https://github.com/cris-he/puppeteer#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "puppeteer": "^5.2.1"
+    "prom-client": "^12.0.0",
+    "puppeteer": "^5.3.0"
   }
 }
